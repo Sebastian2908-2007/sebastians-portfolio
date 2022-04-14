@@ -1,4 +1,8 @@
 import Nav from "./components/Nav";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Portfolio from "./components/Portfolio";
+import Resume from "./components/Resume";
 import { useState } from 'react';
 
 function App() {
@@ -9,6 +13,11 @@ const [currentPage,setCurrentPage] = useState('about');
    currentPage={currentPage}
    setCurrentPage={setCurrentPage}
    ></Nav>
+   {currentPage === 'about' &&  <About></About>}
+   {currentPage === 'contact' &&<Contact></Contact>}  
+   {currentPage === 'portfolio' && <Portfolio></Portfolio>}
+   {currentPage === 'resume' &&   <Resume></Resume>}
+ 
    </div>
   );
 }
