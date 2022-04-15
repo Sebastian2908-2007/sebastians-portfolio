@@ -3,6 +3,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
 import Resume from "./components/Resume";
+import Footer from "./components/Footer";
 import { useState } from 'react';
 
 function App() {
@@ -17,7 +18,7 @@ const [currentPage,setCurrentPage] = useState('about');
    {currentPage === 'contact' &&<Contact></Contact>}  
    {currentPage === 'portfolio' && <Portfolio></Portfolio>}
    {currentPage === 'resume' &&   <Resume></Resume>}
- 
+ <Footer></Footer>
    </div>
   );
 }
