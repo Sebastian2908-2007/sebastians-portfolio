@@ -70,3 +70,12 @@ h6 {
 .navActive {
   background-color: var(--secondary);
 }
+
+.card{
+  margin: 5%;
+}
+
+footer h3 {
+  font-size: 1.4rem;
+}
+
