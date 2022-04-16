@@ -5,7 +5,7 @@ main {
 }
 
 :root {
-  --secondary: #F3A847;
+  --secondary:#5e7fc5 ;
 }
 
 * {
@@ -25,7 +25,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
+  background:  #3b5998;
   color: var(--light);
   font-family: 'Poiret One', cursive;
 
@@ -79,3 +79,37 @@ footer h3 {
   font-size: 1.4rem;
 }
 
+.header-image {
+  height: 70px;
+  width: 70px;
+  border-radius: 100%;
+  padding: 1% .5% .5% 1%;
+}
+
+header h2 {
+  margin-left: 1%;
+}
+
+form {
+  border: 1px solid black;
+  padding: 3%;
+  box-shadow: 0 0 8px rgb(4, 4, 196);  
+}
+
+textarea {
+  box-shadow: 0 0 8px rgb(4, 4, 196);
+}
+
+input{
+  box-shadow: 0 0 8px rgb(4, 4, 196);
+}
+
+button {
+  color: white;
+  background-color: #5e7fc5;
+  box-shadow: 0 0 8px rgb(4, 4, 196);
+}
+
+button:hover{
+  background-color:  rgb(38, 38, 236);
+}

@@ -41,8 +41,11 @@ function Nav(props) {
     }
   
     return (
-        <header>
-            <h2>Sebastian Bowen</h2>
+        <header className="d-flex flex-column flex-md-row ">
+            <div className="d-flex flex-row align-items-center">
+                <img src={require('../../assets/about-images/avatar-pic-seb.png')} alt="sebastian avatar" className="header-image"/>
+            <h2 className="h6"><strong>Sebastian Bowen</strong></h2>
+            </div>
             <nav className="container">
                 <ul className="list-unstyled row">
                     <li className={`col-3 ${isAboutActive ? "navActive": null}`}
