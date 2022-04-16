@@ -24,7 +24,7 @@ function About() {
          <div className="card " >
                <img  src={require('../../assets/about-images/camping-interest.png')}  className="card-img-top" alt="nice"/>
           <div className="card-body">
-            <p className="card-text">No electricity out here! Who needs them when I've got her!.</p>
+            <p className="card-text">No electricity out here! Who needs it when I've got her!.</p>
           </div>
        </div>  
        
