@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sebastians-portfolio/static/css/main.cf519091.css",
-    "main.js": "/sebastians-portfolio/static/js/main.abf4cc52.js",
+    "main.js": "/sebastians-portfolio/static/js/main.229e66bb.js",
     "static/js/787.10fe3494.chunk.js": "/sebastians-portfolio/static/js/787.10fe3494.chunk.js",
     "static/media/tree.png": "/sebastians-portfolio/static/media/tree.f24a2c35e80ec30e7e94.png",
     "static/media/camping-interest.png": "/sebastians-portfolio/static/media/camping-interest.8d8aaa5096e5f0179590.png",
@@ -18,11 +18,11 @@
     "static/media/budget-tracker.png": "/sebastians-portfolio/static/media/budget-tracker.06d7fd7a187d4ea7ffca.png",
     "index.html": "/sebastians-portfolio/index.html",
     "main.cf519091.css.map": "/sebastians-portfolio/static/css/main.cf519091.css.map",
-    "main.abf4cc52.js.map": "/sebastians-portfolio/static/js/main.abf4cc52.js.map",
+    "main.229e66bb.js.map": "/sebastians-portfolio/static/js/main.229e66bb.js.map",
     "787.10fe3494.chunk.js.map": "/sebastians-portfolio/static/js/787.10fe3494.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf519091.css",
-    "static/js/main.abf4cc52.js"
+    "static/js/main.229e66bb.js"
   ]
 }
