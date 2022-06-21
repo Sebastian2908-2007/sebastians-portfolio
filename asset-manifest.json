@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sebastians-portfolio/static/css/main.cf519091.css",
-    "main.js": "/sebastians-portfolio/static/js/main.11ec9791.js",
+    "main.js": "/sebastians-portfolio/static/js/main.abf4cc52.js",
     "static/js/787.10fe3494.chunk.js": "/sebastians-portfolio/static/js/787.10fe3494.chunk.js",
     "static/media/tree.png": "/sebastians-portfolio/static/media/tree.f24a2c35e80ec30e7e94.png",
     "static/media/camping-interest.png": "/sebastians-portfolio/static/media/camping-interest.8d8aaa5096e5f0179590.png",
@@ -11,18 +11,18 @@
     "static/media/pizza-hunt.png": "/sebastians-portfolio/static/media/pizza-hunt.e4bce2fc329d6460add0.png",
     "static/media/lead-gen.png": "/sebastians-portfolio/static/media/lead-gen.7aed6530a4c8707fee5a.png",
     "static/media/my-interests.png": "/sebastians-portfolio/static/media/my-interests.ee71abf99b296bfda520.png",
-    "static/media/1188.png": "/sebastians-portfolio/static/media/1188.f87ceb4331a6d5f127b1.png",
+    "static/media/2908.png": "/sebastians-portfolio/static/media/2908.b2c04c7e5f932615c76a.png",
     "static/media/avatar-pic-seb.png": "/sebastians-portfolio/static/media/avatar-pic-seb.709296bd8148b2b502cf.png",
     "static/media/bootcamp-badge.png": "/sebastians-portfolio/static/media/bootcamp-badge.053953a0914acbc8be70.png",
     "static/media/Sebastians-Resume.pdf": "/sebastians-portfolio/static/media/Sebastians-Resume.5749f3f047370fe8ab79.pdf",
     "static/media/budget-tracker.png": "/sebastians-portfolio/static/media/budget-tracker.06d7fd7a187d4ea7ffca.png",
     "index.html": "/sebastians-portfolio/index.html",
     "main.cf519091.css.map": "/sebastians-portfolio/static/css/main.cf519091.css.map",
-    "main.11ec9791.js.map": "/sebastians-portfolio/static/js/main.11ec9791.js.map",
+    "main.abf4cc52.js.map": "/sebastians-portfolio/static/js/main.abf4cc52.js.map",
     "787.10fe3494.chunk.js.map": "/sebastians-portfolio/static/js/787.10fe3494.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf519091.css",
-    "static/js/main.11ec9791.js"
+    "static/js/main.abf4cc52.js"
   ]
 }
