@@ -2,11 +2,11 @@ function Portfolio() {
     return(
         <section className="d-flex flex-column justify-content-center">
 <div className="card">
-  <img className="card-img-top"   src={require('../../assets/images/1188.png')} alt="1188 RE App"/>
+  <img className="card-img-top"   src={require('../../assets/images/2908.png')} alt="1188 RE App"/>
   <div className="card-body">
-    <h5 className="card-title">1188 Real Estate</h5>
+    <h5 className="card-title">2908 Real Estate</h5>
     <p className="card-text"><a href='https://github.com/Sebastian2908-2007/1188-real-estate' target="_blank" rel='noreferrer'>Github link</a></p>
-    <a href=" https://still-chamber-32033.herokuapp.com" target="_blank" rel='noreferrer' className="btn btn-primary">Deployed Site</a>
+    <a href=" https://2908realestate.com" target="_blank" rel='noreferrer' className="btn btn-primary">Deployed Site</a>
   </div>
 </div>
 
